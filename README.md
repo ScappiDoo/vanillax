@@ -3,7 +3,7 @@
 A legit Minecraft client for 26.2 (Fabric): 37 quality-of-life modules and animated 3D cosmetics.
 Every module is checked against the server mod policy, so nothing in it can get you banned.
 
-**Website and downloads: https://vanillax-nine.vercel.app**
+**Website and downloads: https://vanillax.pages.dev**
 
 ## Download
 
