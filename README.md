@@ -1,29 +1,56 @@
 # VanillaX
 
-A legit Minecraft client for 26.2 (Fabric): 37 quality-of-life modules and animated 3D cosmetics.
-Every module is checked against the server mod policy, so nothing in it can get you banned.
+VanillaX is a Minecraft client and server-plugin ecosystem by Scappi X Studios, built to add quality-of-life features and cosmetics without breaking server rules.
 
-**Website and downloads: https://vanillax.pages.dev**
+**Website:** https://vanillax.pages.dev · **Download:** [latest release](../../releases/latest) · **Discord:** https://discord.gg/fSkGCy4Rp4 · **FAQ:** https://vanillax.pages.dev/faq
+
+This repository hosts the **VanillaX Client** releases: a Windows launcher and Fabric client for Minecraft Java Edition.
 
 ## Download
 
-Grab the latest installer from [Releases](../../releases/latest).
+Get the latest installer from [Releases](../../releases/latest).
 
-- `VanillaX-Setup-x.y.z.exe` - normal installer, adds shortcuts and an uninstaller.
-- `VanillaX-Portable-x.y.z.exe` - runs without installing.
+- `VanillaX-Setup-x.y.z.exe`: the normal installer. It adds shortcuts and an uninstaller.
+- `VanillaX-Portable-x.y.z.exe`: runs without installing.
 
-Windows 10 or 11, 64-bit. The launcher brings its own Java and installs Minecraft, Fabric and the
-client for you. Everything lands in `%APPDATA%\.vanillax`.
+It needs Windows 10 or 11, 64-bit. The launcher brings its own Java and installs Minecraft, Fabric and the client for you. Everything goes into `%APPDATA%\.vanillax`.
 
-The installer is not code signed yet, so Windows SmartScreen shows a warning on first run:
-click **More info**, then **Run anyway**.
+The installer isn't code-signed yet, so Windows SmartScreen shows a warning the first time you run it. Click **More info**, then **Run anyway**. Only download VanillaX from this repository or https://vanillax.pages.dev.
 
-## What is in it
+## What's in it
 
-- Vision: zoom, fullbright, fog removal, custom crosshair, low fire, clear weather.
-- HUD: coordinates, armour, effects, food, FPS, CPS, ping, clock, speed, memory, keystrokes, compass.
-- World: terrain-only minimap, spawn light overlay, spawn and despawn rings, mob health, TNT timers.
-- Cosmetics: 11 capes, 6 hats and 3 wing styles, animated, drawn on your own player.
-- No cheats: no reach, scaffold, aim help, X-ray or radar. They were never written.
+- **Vision:** zoom, fullbright, fog removal, custom crosshair, low fire, clear weather.
+- **HUD:** coordinates, armour, effects, food, FPS, CPS, ping, clock, speed, memory, keystrokes, compass.
+- **World:** terrain-only minimap, spawn light overlay, spawn and despawn rings, mob health, TNT timers, chunk caching.
+- **Inventory:** sort button on chests, barrels, shulker boxes and your own inventory.
+- **Cosmetics:** animated capes, hats, wings and pets, visible to other VanillaX players.
+- **Launcher:** profiles for any Minecraft release from 1.19, friends, cosmetic locker.
 
-## Not affiliated with Mojang or Microsoft.
+The full, current module list is at https://vanillax.pages.dev/client.
+
+## No cheats
+
+Every module is checked against the [mod policy](https://vanillax.pages.dev/mod-policy). VanillaX has no reach, scaffold, aim help, X-ray or radar. Those features were never written.
+
+## The VanillaX ecosystem
+
+| Part | What it is |
+|---|---|
+| **VanillaX Client** | This repo: the launcher and Fabric client |
+| [NationsX](https://vanillax.pages.dev/projects/nationsx) | Paper plugin: nations, claims and declared wars |
+| [FactoryX](https://vanillax.pages.dev/projects/factoryx) | NationsX add-on: the nation tech tree |
+| [PassportX](https://vanillax.pages.dev/projects/passportx) | NationsX add-on: passports for citizenship and travel |
+| [CannonX](https://vanillax.pages.dev/projects/cannonx) | Paper plugin: siege cannons |
+| [CavalryX](https://vanillax.pages.dev/projects/cavalryx) | Paper plugin: war horses and cavalry |
+| [GeopolX](https://vanillax.pages.dev/geopolx) | Minecraft nations server running the X projects (in development) |
+
+## Support
+
+- Help: https://vanillax.pages.dev/support
+- Discord: https://discord.gg/fSkGCy4Rp4
+- Bugs: [open an issue](../../issues)
+
+---
+
+VanillaX is made by [Scappi X Studios](https://vanillax.pages.dev/about), the company of [ScappiDoo](https://github.com/ScappiDoo).
+Not affiliated with Mojang or Microsoft. Not related to other projects named VanillaX.
