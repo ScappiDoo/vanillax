@@ -52,5 +52,5 @@ Every module is checked against the [mod policy](https://vanillax.pages.dev/mod-
 
 ---
 
-VanillaX is made by [Scappi X Studios](https://vanillax.pages.dev/about), the company of [ScappiDoo](https://github.com/ScappiDoo).
+VanillaX is made by [Scappi X Studios](https://scappidoo.github.io/scappi-x-studios/), the company of [ScappiDoo](https://github.com/ScappiDoo).
 Not affiliated with Mojang or Microsoft. Not related to other projects named VanillaX.
