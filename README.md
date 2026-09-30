@@ -42,7 +42,7 @@ Every module is checked against the [mod policy](https://vanillax.pages.dev/mod-
 | [PassportX](https://vanillax.pages.dev/projects/passportx) | NationsX add-on: passports for citizenship and travel |
 | [CannonX](https://vanillax.pages.dev/projects/cannonx) | Paper plugin: siege cannons |
 | [CavalryX](https://vanillax.pages.dev/projects/cavalryx) | Paper plugin: war horses and cavalry |
-| [GeopolX](https://vanillax.pages.dev/geopolx) | Minecraft nations server running the X projects (in development) |
+| [X Geopol](https://vanillax.pages.dev/xgeopol) | Minecraft nations server running the X projects (in development) |
 
 ## Support
 
